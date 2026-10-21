@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    /*
+    char enter = '\n';
+    char tabulator = '\t';
+    char alarm = '\a';
+    char litera1 = 97;
+    char spacja = ' ';
+    char litera2 = 'f';
+    cout<<litera1<<tabulator<<litera2<<spacja<<litera1;
+for(int i = 0;true;i++)
+{
+cout << i << "begin" << alarm << "end\n";
+*/
+
+cout<<"mama\\nar\"uto\\titanik\\ama'tor";
+
+
+}
+
+
+
